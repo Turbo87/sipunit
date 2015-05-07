@@ -51,3 +51,7 @@ docs/sources-telscale/src/
 
 # ignore auto generated XML parser files
 src/main/java/org/cafesip/sipunit/presenceparser/pidf
+
+# ignore log and debug files
+/*_log.txt
+/*_debug.txt
