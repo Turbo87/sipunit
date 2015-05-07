@@ -49,3 +49,5 @@ PutObjectStoreDirHere
 docs/sources-mobicents/src/
 docs/sources-telscale/src/
 
+# ignore auto generated XML parser files
+src/main/java/org/cafesip/sipunit/presenceparser/pidf
